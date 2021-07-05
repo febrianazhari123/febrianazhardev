@@ -1,13 +1,13 @@
 {
 "redirect" : {
 
-"HOMEURL" : "file:///android_asset/html/index.html",
+"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
  
  // testing server json yang dipakai
-"Json_popup_Wait" : "Server Ready . ",
+"Json_popup_Wait" : "Server Ready . . . v19j13",
 
 
-"mode_no_ads" : false,
+"MODE_NO_ADS" : true,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
 
 
@@ -19,25 +19,25 @@
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
-"PENGATURAN_IKLAN_inter" : "UNITY",
-"PENGATURAN_IKLAN_native" : "APPODEAL",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "FAN",
 
-"INTER_COUNT" : 8,
+"INTER_COUNT" : 4,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
 
-"ads_on_exit_dialog" : false,
+"ads_on_exit_dialog" : true,
 
 "Mode_offline_mp3" : false,
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "202207265",
+"STARAPPID" : "201365479",
 
-"ADMOB_BANNER" : "ca-app-pub-8665352681989203/8323569076",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
+"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
+"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -51,12 +51,12 @@
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"APPODEAL_APP_ID" : "eda58f0e6778c93a77183c98f045ee8e510d2982b5b9b8d7",
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4196033",
-"UNITY_TEST_MODE" : "false",
+"UNITY_GAME_ID" : "4045251",
+"UNITY_TEST_MODE" : "true",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
@@ -66,13 +66,13 @@
 "Button_Rating" : "RATING NOW",
 
 
-"Exit_Popup_Dialog" : "Tolong Kasih Review ya Ka,, Biar kami lebih semangat ",
+"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
 "Share_TXT" : "Supperr APPS Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.febrianazhar.panduanuntukmelatihkecerdasanotak"
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
 
   }
 }
