@@ -8,7 +8,7 @@
 
 
 "MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
 // mode pengaturan iklan
@@ -19,10 +19,10 @@
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
-"PENGATURAN_IKLAN_inter" : "ADMOB",
-"PENGATURAN_IKLAN_native" : "FAN",
+"PENGATURAN_IKLAN_inter" : "FAN",
+"PENGATURAN_IKLAN_native" : "APPODEAL",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 8,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -33,9 +33,9 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "202207265",
 
-"ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
+"ADMOB_BANNER" : "ca-app-pub-8665352681989203/8323569076",
 "ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
 "ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
 
@@ -47,16 +47,16 @@
 "HPK_ADMOB5" : "Donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "295224978882808_295225022216137",
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
-"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+"APPODEAL_APP_ID" : "eda58f0e6778c93a77183c98f045ee8e510d2982b5b9b8d7",
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
-"UNITY_GAME_ID" : "4045251",
-"UNITY_TEST_MODE" : "true",
+"UNITY_GAME_ID" : "4196033",
+"UNITY_TEST_MODE" : "false",
 
 "APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
 "APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
@@ -66,13 +66,13 @@
 "Button_Rating" : "RATING NOW",
 
 
-"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bingtang 5 ya :)",
+"Exit_Popup_Dialog" : "Biar kita tambah semangat buat aplikasinya \n\n Bantu kami dengan rating bingtang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
 "Share_TXT" : "Supperr APPS Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.febrianazhar.panduanuntukmelatihkecerdasanotak"
 
   }
 }

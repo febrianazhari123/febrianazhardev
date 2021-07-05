@@ -4,10 +4,10 @@
 "HOMEURL" : "file:///android_asset/html/index.html",
  
  // testing server json yang dipakai
-"Json_popup_Wait" : "Server Ready . ",
+"Json_popup_Wait" : "Server Ready . . . v19j13",
 
 
-"mode_no_ads" : false,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
 
 
@@ -19,7 +19,7 @@
 // Mode APPLOVIN    Applovin backup Unity Backup Startapp
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
-"PENGATURAN_IKLAN_inter" : "UNITY",
+"PENGATURAN_IKLAN_inter" : "FAN",
 "PENGATURAN_IKLAN_native" : "APPODEAL",
 
 "INTER_COUNT" : 8,
@@ -27,7 +27,7 @@
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
 
-"ads_on_exit_dialog" : false,
+"ads_on_exit_dialog" : true,
 
 "Mode_offline_mp3" : false,
 "Enable_Sticky_Notification" : false,
@@ -36,8 +36,8 @@
 "STARAPPID" : "202106246",
 
 "ADMOB_BANNER" : "ca-app-pub-8665352681989203/8341603142",
-"ADMOB_INTER" : "",
-"ADMOB_NATIV" : "",
+"ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
+"ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
 
 "hpk_alien" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -47,7 +47,7 @@
 "HPK_ADMOB5" : "Donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "4584448601583262_4584448651583257",
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
@@ -66,7 +66,7 @@
 "Button_Rating" : "RATING NOW",
 
 
-"Exit_Popup_Dialog" : "Tolong Kasih Review ya Ka,, Biar kami lebih semangat ",
+"Exit_Popup_Dialog" : "Biar kita tambah semangat buat aplikasinya \n\n Bantu kami dengan rating bingtang 5 ya :)",
 "Rate_Button" : "Rate 5 Stars",
 "Later_Button" : "Rate Later",
 "enable_Share_button" : true,
