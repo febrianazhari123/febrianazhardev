@@ -35,7 +35,7 @@
 
 "STARAPPID" : "202398709",
 
-"ADMOB_BANNER" : "ca-app-pub-8665352681989203/4795387608",
+"ADMOB_BANNER" : "ca-app-pub-8665352681989203/8687102940",
 "ADMOB_INTER" : "",
 "ADMOB_NATIV" : "",
 
@@ -47,7 +47,7 @@
 "HPK_ADMOB5" : "Donasi",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
-"FAN_INTER" : "1138571743288699_1138572106621996",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
 "FAN_NATIVE" : "YOUR_PLACEMENT_ID",
 
 
@@ -56,10 +56,10 @@
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "interstitial",
 "UNITY_GAME_ID" : "4196031",
-"UNITY_TEST_MODE" : "false",
+"UNITY_TEST_MODE" : "true",
 
-"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_ID" : "BANNER_ID",
+"APPLOVIN_INTERSTITIAL_ID" : "APPLOVIN_INTERSTITIAL_ID",
 
 "Button_Start" : "START",
 "Button_Share" : "SHARE TO FRIEND",
@@ -72,7 +72,7 @@
 "enable_Share_button" : true,
 "Share_TXT" : "Supperr APPS Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.febrianazhar.berbagaijenisdaundanmanfaatnya"
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.febrianazhar.resepmembuatminumanesboba"
 
   }
 }
