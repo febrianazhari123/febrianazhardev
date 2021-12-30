@@ -1,0 +1,430 @@
+{
+   "Ads":[
+      {
+         "Ads":[
+            {
+               "select_main_ads":"ADMOB",
+               "select_backup_ads":"STARTAPP",
+               "main_ads_banner":"ca-app-pub-3940256099942544/6300978111",
+               "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+               "main_ads_reward":"ca-app-pub-3940256099942544/5224354917",
+               "backup_ads_banner":"",
+               "backup_ads_intertitial":"",
+               "backup_ads_reward":"",
+               "interval_intertitial":5,
+               "initialize_sdk":"",
+               "initialize_sdk_backup_ads":"",
+               "high_paying_keyword_1":"",
+               "high_paying_keyword_2":"",
+               "high_paying_keyword_3":"",
+               "high_paying_keyword_4":"",
+               "high_paying_keyword_5":"",
+               "status_app":"0",
+               "link_redirect":"https://"
+            }
+         ]
+      }
+   ],
+   "Skin":[
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack001.png"
+      },
+      {
+         "name_skin":"Aaron Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack002.png"
+      },
+      {
+         "name_skin":"Muscle Six Pack Girl",
+         "install":"https://archive.org/download/sixpack024/sixpack003.png"
+      },
+      {
+         "name_skin":"Austrian Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack004.png"
+      },
+      {
+         "name_skin":"Beach Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack005.png"
+      },
+      {
+         "name_skin":"Beach Boy",
+         "install":"https://archive.org/download/sixpack024/sixpack006.png"
+      },
+      {
+         "name_skin":"Blue Hoodie Boy Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack007.png"
+      },
+      {
+         "name_skin":"Beach Six Packblue Eyed Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack008.png"
+      },
+      {
+         "name_skin":"Boxer",
+         "install":"https://archive.org/download/sixpack024/sixpack009.png"
+      },
+      {
+         "name_skin":"Brunox Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack010.png"
+      },
+      {
+         "name_skin":"Buff Guy Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack011.png"
+      },
+      {
+         "name_skin":"Muscly And Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack012.png"
+      },
+      {
+         "name_skin":"Capitan  Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack013.png"
+      },
+      {
+         "name_skin":"Cool Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack014.png"
+      },
+      {
+         "name_skin":"Cream With Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack015.png"
+      },
+      {
+         "name_skin":"Danimr Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack016.png"
+      },
+      {
+         "name_skin":"Dark Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack017.png"
+      },
+      {
+         "name_skin":"Six Pack Big Boy",
+         "install":"https://archive.org/download/sixpack024/sixpack018.png"
+      },
+      {
+         "name_skin":"Fit Hoodie Boy Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack019.png"
+      },
+      {
+         "name_skin":"Fit Hoodie Boy Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack020.png"
+      },
+      {
+         "name_skin":"Fleshy Boi ",
+         "install":"https://archive.org/download/sixpack024/sixpack021.png"
+      },
+      {
+         "name_skin":"King Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack022.png"
+      },
+      {
+         "name_skin":"Funny Six Pack Snowman ",
+         "install":"https://archive.org/download/sixpack024/sixpack023.png"
+      },
+      {
+         "name_skin":"Ghost Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack024.png"
+      },
+      {
+         "name_skin":"Green Six Pack Wolf",
+         "install":"https://archive.org/download/sixpack024/sixpack025.png"
+      },
+      {
+         "name_skin":"Gym Boy",
+         "install":"https://archive.org/download/sixpack024/sixpack026.png"
+      },
+      {
+         "name_skin":"Hero Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack027.png"
+      },
+      {
+         "name_skin":"Hero Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack028.png"
+      },
+      {
+         "name_skin":"Hot Shot Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack029.png"
+      },
+      {
+         "name_skin":"House Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack030.png"
+      },
+      {
+         "name_skin":"HGreen Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack031.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack032.png"
+      },
+      {
+         "name_skin":"Landons Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack033.png"
+      },
+      {
+         "name_skin":"Leonidas Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack034.png"
+      },
+      {
+         "name_skin":"Mntos Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack035.png"
+      },
+      {
+         "name_skin":"Me Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack036.png"
+      },
+      {
+         "name_skin":"Mega Mustache Man",
+         "install":"https://archive.org/download/sixpack024/sixpack037.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack038.png"
+      },
+      {
+         "name_skin":"Me With Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack039.png"
+      },
+      {
+         "name_skin":"Montec Kralik Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack040.png"
+      },
+      {
+         "name_skin":"Sexi Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack041.png"
+      },
+      {
+         "name_skin":"Muscle Six Pack Girl",
+         "install":"https://archive.org/download/sixpack024/sixpack042.png"
+      },
+      {
+         "name_skin":"Six Pack Skin ",
+         "install":"https://archive.org/download/sixpack024/sixpack043.png"
+      },
+      {
+         "name_skin":"Ripped Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack044.png"
+      },
+      {
+         "name_skin":"Ripped Red Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack045.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack046.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack047.png"
+      },
+      {
+         "name_skin":"Siddle Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack048.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack049.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack050.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack051.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack052.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack053.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack054.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack055.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack056.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack057.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack058.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack059.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack060.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack061.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack062.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack063.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack064.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack065.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack066.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack067.png"
+      },
+      {
+         "name_skin":"Six Pack Demon Eye",
+         "install":"https://archive.org/download/sixpack024/sixpack068.png"
+      },
+      {
+         "name_skin":"Six Pack Body Builder",
+         "install":"https://archive.org/download/sixpack024/sixpack069.png"
+      },
+      {
+         "name_skin":"Six Pack Cool",
+         "install":"https://archive.org/download/sixpack024/sixpack070.png"
+      },
+      {
+         "name_skin":"Six Pack Dude",
+         "install":"https://archive.org/download/sixpack024/sixpack071.png"
+      },
+      {
+         "name_skin":"Six Pack Dude",
+         "install":"https://archive.org/download/sixpack024/sixpack072.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack073.png"
+      },
+      {
+         "name_skin":"Six Pack Girl",
+         "install":"https://archive.org/download/sixpack024/sixpack074.png"
+      },
+      {
+         "name_skin":"Six Pack Hero",
+         "install":"https://archive.org/download/sixpack024/sixpack075.png"
+      },
+      {
+         "name_skin":"Six Pack Hero",
+         "install":"https://archive.org/download/sixpack024/sixpack076.png"
+      },
+      {
+         "name_skin":"Six Pack Hero",
+         "install":"https://archive.org/download/sixpack024/sixpack077.png"
+      },
+      {
+         "name_skin":"Six Pack Hero",
+         "install":"https://archive.org/download/sixpack024/sixpack078.png"
+      },
+      {
+         "name_skin":"Six Pack Man",
+         "install":"https://archive.org/download/sixpack024/sixpack079.png"
+      },
+      {
+         "name_skin":"Six Pack Master",
+         "install":"https://archive.org/download/sixpack024/sixpack080.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack081.png"
+      },
+      {
+         "name_skin":"Six Pack Teen",
+         "install":"https://archive.org/download/sixpack024/sixpack082.png"
+      },
+      {
+         "name_skin":"Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack083.png"
+      },
+      {
+         "name_skin":"Six Pack Adiss Boy ",
+         "install":"https://archive.org/download/sixpack024/sixpack084.png"
+      },
+      {
+         "name_skin":"Six Pack Bat",
+         "install":"https://archive.org/download/sixpack024/sixpack085.png"
+      },
+      {
+         "name_skin":"Six Pack Boy",
+         "install":"https://archive.org/download/sixpack024/sixpack086.png"
+      },
+      {
+         "name_skin":"Six Pack Dude",
+         "install":"https://archive.org/download/sixpack024/sixpack087.png"
+      },
+      {
+         "name_skin":"Six Pack Man",
+         "install":"https://archive.org/download/sixpack024/sixpack088.png"
+      },
+      {
+         "name_skin":"Six Pack Melon ",
+         "install":"https://archive.org/download/sixpack024/sixpack089.png"
+      },
+      {
+         "name_skin":"Six Pack Panda Lover ",
+         "install":"https://archive.org/download/sixpack024/sixpack090.png"
+      },
+      {
+         "name_skin":"Six Pack Player ",
+         "install":"https://archive.org/download/sixpack024/sixpack091.png"
+      },
+      {
+         "name_skin":"Six Pack Skin",
+         "install":"https://archive.org/download/sixpack024/sixpack092.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack093.png"
+      },
+      {
+         "name_skin":"Strong Cheese Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack094.png"
+      },
+      {
+         "name_skin":"Strong Six Pack Skin",
+         "install":"https://archive.org/download/sixpack024/sixpack095.png"
+      },
+      {
+         "name_skin":"The Dark Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack096.png"
+      },
+      {
+         "name_skin":"Mullet Six Pack ",
+         "install":"https://archive.org/download/sixpack024/sixpack097.png"
+      },
+      {
+         "name_skin":"The Strong Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack098.png"
+      },
+      {
+         "name_skin":"Tb Red Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack099.png"
+      },
+      {
+         "name_skin":"Six Pack",
+         "install":"https://archive.org/download/sixpack024/sixpack100.png"
+      }
+   ]
+}
