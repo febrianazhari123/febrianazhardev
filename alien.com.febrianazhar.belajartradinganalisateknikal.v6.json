@@ -6,7 +6,7 @@
       "select_backup_ads":"IRON",
       "main_ads_banner": "ca-app-pub-7691534248804171/9098812937",
       "main_ads_intertitial":"ca-app-pub-7691534248804171/6743154783",
-      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_banner":"",
       "backup_ads_intertitial":"DefaultInterstitial",
       "interval_intertitial": 2,
       "initialize_sdk":"1586dd505",
