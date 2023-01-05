@@ -8,7 +8,7 @@
       "main_ads_intertitial":"ca-app-pub-7691534248804171/6743154783x",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "interval_intertitial": 3,
+      "interval_intertitial": 50,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "url_webiste":"file:///android_asset/index.html",
