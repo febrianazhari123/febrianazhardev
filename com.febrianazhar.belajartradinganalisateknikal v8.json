@@ -3,19 +3,19 @@
 "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"null",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_natives":"",
-      "backup_ads_banner":"",
-      "backup_ads_intertitial":"",
-      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-7691534248804171/9098812937",
+      "main_ads_intertitial":"ca-app-pub-7691534248804171/6743154783",
+      "main_ads_natives":"",
+      "backup_ads_natives":"472390daf632581b",
+      "backup_ads_banner":"8f29611f58520431",
+      "backup_ads_intertitial":"762073abb881f068",
+      "open_ads_admob":"ca-app-pub-7691534248804171/7190110791",
       "open_ads_alien":"",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"1",
       "on_off_native_listview":"1",
-      "interval_intertitial": 5,
+      "interval_intertitial": 3,
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -32,9 +32,9 @@
   [
     {
       "id":1,
-      "title":"",
-      "image":"",
-      "link":""
+      "title":"Learn Fibonacci Retracement",
+      "image":"https://i.imgur.com/HL1AFv3.png",
+      "link":"com.febrianazhar.learningfibonacciretracementtrading"
     }
   ]
 }
